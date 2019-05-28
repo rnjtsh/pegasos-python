@@ -7,4 +7,4 @@ The functionalities of this implementation are:
 * One-vs-all multiclass classification
 * Kernelized and Non-kernelized implementation
 
-For more details, please refer to the report attached.
+For more details, please refer to the [report](./blob/master/Primal%20Estimated%20sub.pdf) attached.
